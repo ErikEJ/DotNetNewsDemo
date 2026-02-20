@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="../Field/Field.csproj" />
+  <Project Path="../IsoWeek/IsoWeek.csproj" />
   <Project Path="../NullAssign/NullAssign.csproj" />
+  <Project Path="../StringCompare/StringCompare.csproj" />
   <Project Path="Demo1.csproj" />
 </Solution>
