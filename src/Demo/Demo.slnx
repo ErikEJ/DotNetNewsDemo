@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Field/Field.csproj" />
+  <Project Path="../NullAssign/NullAssign.csproj" />
+  <Project Path="Demo1.csproj" />
+</Solution>
